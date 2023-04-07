@@ -1,5 +1,5 @@
 ＃　アプリケーション名
-顧客データ保存アプリ
+顧客データ管理アプリ
 
 ＃＃　作成した目的
 顧客のデータを保存し、管理できるアプリを作るため
@@ -22,3 +22,4 @@ Laravel 8.x
 ![テーブル設計](https://github.com/YutaTomatsu/laravel-test/blob/main/%E3%83%86%E3%83%BC%E3%83%95%E3%82%99%E3%83%AB%E5%86%85%E5%AE%B9.png?raw=true))
 
 ＃＃　ER図
+![ER図](https://github.com/YutaTomatsu/laravel-test/blob/main/ER%E5%9B%B3.png?raw=true)
